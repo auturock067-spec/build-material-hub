@@ -1,0 +1,136 @@
+{
+  "brand": "BuildMaterialHub",
+  "titleSuffix": "Building materials & specification guides",
+  "description": "Learn to compare cladding, insulation, tile and building materials, with a focus on technical documentation and supplier research.",
+  "eyebrow": "Building materials intelligence",
+  "hero": "Choose materials with the full picture.",
+  "intro": "Explore material categories, performance questions and procurement checklists. A clearer path from project requirements to manufacturer documentation.",
+  "heroCardTitle": "Specs before samples.",
+  "heroCardCopy": "Fire behavior, local building codes, environmental conditions and installation systems can determine suitability.",
+  "topics": [
+    {
+      "title": "Performance documents",
+      "summary": "Review test scope, standard edition, product identity and the issuing laboratory."
+    },
+    {
+      "title": "System compatibility",
+      "summary": "A component's performance may depend on its installed assembly."
+    },
+    {
+      "title": "Procurement basics",
+      "summary": "Understand tolerances, packaging, shipping damage and acceptance criteria."
+    }
+  ],
+  "products": [
+    {
+      "name": "Porcelain floor tile",
+      "category": "Surfaces",
+      "description": "Dense ceramic tile commonly specified for floors and interior finishes.",
+      "spec": "Dimensions, water absorption, slip performance, shade and caliber.",
+      "tags": [
+        "Ceramic",
+        "Tile"
+      ],
+      "caution": "Check slip requirements, installation substrate and project conditions."
+    },
+    {
+      "name": "Aluminum profile",
+      "category": "Metals",
+      "description": "Extruded profiles used in framing, interiors and building envelopes.",
+      "spec": "Alloy/temper, cross-section, finish, tolerance, coating specification.",
+      "tags": [
+        "Extrusion",
+        "Aluminum"
+      ],
+      "caution": "Confirm structural suitability and traceable material certificates."
+    },
+    {
+      "name": "Mineral wool insulation",
+      "category": "Insulation",
+      "description": "Fiber insulation used for thermal and acoustic applications in assemblies.",
+      "spec": "Density, declared thermal performance, thickness, fire test context.",
+      "tags": [
+        "Thermal",
+        "Acoustic"
+      ],
+      "caution": "System fire performance is not established by one product label."
+    },
+    {
+      "name": "Fiber cement board",
+      "category": "Surfaces",
+      "description": "Cement-based panel for selected facade and interior applications.",
+      "spec": "Thickness, strength, moisture behavior, fastener system.",
+      "tags": [
+        "Board",
+        "Cladding"
+      ],
+      "caution": "Confirm dust-handling procedures and approved application."
+    },
+    {
+      "name": "Insulated glass unit",
+      "category": "Glazing",
+      "description": "Factory assembled glazing panes with a sealed cavity.",
+      "spec": "Glass build-up, cavity type, coatings, safety glass needs.",
+      "tags": [
+        "Glazing",
+        "IGU"
+      ],
+      "caution": "Regional energy and safety glazing requirements may apply."
+    },
+    {
+      "name": "Waterproofing membrane",
+      "category": "Insulation",
+      "description": "Sheet or liquid-applied barrier forming part of water-management systems.",
+      "spec": "Substrate compatibility, thickness, test method, application conditions.",
+      "tags": [
+        "Membrane",
+        "Waterproof"
+      ],
+      "caution": "Application and detailing affect performance."
+    }
+  ],
+  "guides": [
+    {
+      "title": "Read a material test report",
+      "summary": "A certificate is meaningful only if it matches the product and intended application.",
+      "checks": [
+        "Compare company, product name and sample identification.",
+        "Verify test method edition, result scope and document issuer.",
+        "Record any gaps against local building code requirements."
+      ]
+    },
+    {
+      "title": "Importing building materials",
+      "summary": "Physical dimensions and packing practices can change the real landed cost.",
+      "checks": [
+        "Ask for weights, packaging units and damage protection.",
+        "Clarify production tolerances and replacement policy.",
+        "Define pre-shipment inspection and Incoterms in writing."
+      ]
+    },
+    {
+      "title": "Fire ratings need context",
+      "summary": "Individual material labels do not automatically establish entire assembly compliance.",
+      "checks": [
+        "Identify whether the rating applies to material or tested system.",
+        "Compare the installation details with the test specimen.",
+        "Engage a competent local professional for code-sensitive use."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "Can a product certificate guarantee project approval?",
+      "answer": "No. Approval depends on jurisdiction, application and the full installed system."
+    },
+    {
+      "question": "Does the directory list accredited factories?",
+      "answer": "No. Supplier onboarding is not yet open."
+    },
+    {
+      "question": "Is pricing available?",
+      "answer": "Not currently. These are representative material types, not live catalog offers."
+    }
+  ],
+  "disclosure": "All building material specifications and local-code decisions require project-specific professional verification."
+}
