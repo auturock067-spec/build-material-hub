@@ -132,5 +132,142 @@
       "answer": "Not currently. These are representative material types, not live catalog offers."
     }
   ],
-  "disclosure": "All building material specifications and local-code decisions require project-specific professional verification."
+  "disclosure": "All building material specifications and local-code decisions require project-specific professional verification.",
+  "locales": {
+    "zh-CN": {
+      "titleSuffix": "建筑材料与规格指南",
+      "description": "学习比较外墙材料、保温材料、瓷砖及其他建材，重点了解技术文件和供应商调研。",
+      "eyebrow": "建筑材料知识",
+      "hero": "全面了解，才能选对材料。",
+      "intro": "了解材料分类、性能问题和采购核查清单，从项目要求逐步落实到制造商文件。",
+      "heroCardTitle": "先看规格，再看样品。",
+      "heroCardCopy": "燃烧性能、当地建筑规范、环境条件及安装系统都可能决定材料是否适用。",
+      "topics": [
+        {
+          "title": "性能文件",
+          "summary": "核查检测范围、标准版本、产品身份及出具报告的实验室。"
+        },
+        {
+          "title": "系统兼容性",
+          "summary": "组件的性能可能取决于其所在的安装系统。"
+        },
+        {
+          "title": "采购基础",
+          "summary": "了解公差、包装、运输损坏及验收标准。"
+        }
+      ],
+      "products": [
+        {
+          "name": "瓷质地砖",
+          "category": "表面材料",
+          "description": "常用于地面及室内饰面的致密陶瓷砖。",
+          "spec": "尺寸、吸水率、防滑性能、色号及尺寸分级。",
+          "tags": [
+            "陶瓷",
+            "瓷砖"
+          ],
+          "caution": "核查防滑要求、安装基层及项目条件。"
+        },
+        {
+          "name": "铝型材",
+          "category": "金属材料",
+          "description": "用于框架、室内构件及建筑围护结构的挤压型材。",
+          "spec": "合金及状态、截面、表面处理、公差、涂层规格。",
+          "tags": [
+            "挤压成型",
+            "铝"
+          ],
+          "caution": "核实结构适用性及可追溯的材质证明。"
+        },
+        {
+          "name": "矿物棉保温材料",
+          "category": "保温与防护",
+          "description": "用于构造系统中隔热和吸声用途的纤维材料。",
+          "spec": "密度、声明的热工性能、厚度、燃烧试验适用条件。",
+          "tags": [
+            "隔热",
+            "声学"
+          ],
+          "caution": "单一产品标签不能证明整个系统的防火性能。"
+        },
+        {
+          "name": "纤维水泥板",
+          "category": "表面材料",
+          "description": "用于特定外墙及室内用途的水泥基板材。",
+          "spec": "厚度、强度、湿度影响、紧固系统。",
+          "tags": [
+            "板材",
+            "覆面"
+          ],
+          "caution": "确认粉尘处理程序及获准使用的场景。"
+        },
+        {
+          "name": "中空玻璃组件",
+          "category": "玻璃材料",
+          "description": "在工厂组装、带密封空腔的玻璃组件。",
+          "spec": "玻璃构造、空腔类型、镀膜、安全玻璃要求。",
+          "tags": [
+            "玻璃",
+            "中空玻璃 IGU"
+          ],
+          "caution": "可能需要满足当地节能及安全玻璃要求。"
+        },
+        {
+          "name": "防水膜材",
+          "category": "保温与防护",
+          "description": "作为水分管理系统组成部分的片材或液态施工屏障。",
+          "spec": "基层兼容性、厚度、试验方法、施工条件。",
+          "tags": [
+            "膜材",
+            "防水"
+          ],
+          "caution": "施工方法和节点处理会影响性能。"
+        }
+      ],
+      "guides": [
+        {
+          "title": "读懂材料检测报告",
+          "summary": "证书只有与产品及预期用途相符时才有参考意义。",
+          "checks": [
+            "核对企业、产品名称及样品标识。",
+            "核实试验方法版本、结果适用范围及文件出具方。",
+            "记录与当地建筑规范要求之间的差距。"
+          ]
+        },
+        {
+          "title": "进口建筑材料",
+          "summary": "实物尺寸及包装方式可能改变实际到岸成本。",
+          "checks": [
+            "索取重量、包装单位及防损措施资料。",
+            "明确生产公差及更换政策。",
+            "以书面形式约定装运前检验及国际贸易术语。"
+          ]
+        },
+        {
+          "title": "理解防火等级的适用条件",
+          "summary": "单项材料标签不能自动证明整个构造系统合规。",
+          "checks": [
+            "确认等级适用于材料还是经过试验的系统。",
+            "比较安装细节与试验样件是否一致。",
+            "涉及建筑规范的用途，应咨询当地具备能力的专业人员。"
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "产品证书能保证项目获批吗？",
+          "answer": "不能。审批取决于管辖地区、具体用途及完整的安装系统。"
+        },
+        {
+          "question": "目录中是否已有经过认可的工厂？",
+          "answer": "没有。供应商入驻尚未开放。"
+        },
+        {
+          "question": "可以查询价格吗？",
+          "answer": "目前不可以。这里展示的是代表性材料类型，并非实时报价目录。"
+        }
+      ],
+      "disclosure": "所有建材规格及当地规范适用性判断，都需要结合具体项目进行专业核实。"
+    }
+  }
 }
