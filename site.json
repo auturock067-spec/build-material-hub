@@ -31,7 +31,8 @@
         "Ceramic",
         "Tile"
       ],
-      "caution": "Check slip requirements, installation substrate and project conditions."
+      "caution": "Check slip requirements, installation substrate and project conditions.",
+      "image": "./images/porcelain-floor-tile.svg"
     },
     {
       "name": "Aluminum profile",
@@ -42,7 +43,8 @@
         "Extrusion",
         "Aluminum"
       ],
-      "caution": "Confirm structural suitability and traceable material certificates."
+      "caution": "Confirm structural suitability and traceable material certificates.",
+      "image": "./images/aluminum-profile.svg"
     },
     {
       "name": "Mineral wool insulation",
@@ -53,7 +55,8 @@
         "Thermal",
         "Acoustic"
       ],
-      "caution": "System fire performance is not established by one product label."
+      "caution": "System fire performance is not established by one product label.",
+      "image": "./images/mineral-wool-insulation.svg"
     },
     {
       "name": "Fiber cement board",
@@ -64,7 +67,8 @@
         "Board",
         "Cladding"
       ],
-      "caution": "Confirm dust-handling procedures and approved application."
+      "caution": "Confirm dust-handling procedures and approved application.",
+      "image": "./images/fiber-cement-board.svg"
     },
     {
       "name": "Insulated glass unit",
@@ -75,7 +79,8 @@
         "Glazing",
         "IGU"
       ],
-      "caution": "Regional energy and safety glazing requirements may apply."
+      "caution": "Regional energy and safety glazing requirements may apply.",
+      "image": "./images/insulated-glass-unit.svg"
     },
     {
       "name": "Waterproofing membrane",
@@ -86,7 +91,8 @@
         "Membrane",
         "Waterproof"
       ],
-      "caution": "Application and detailing affect performance."
+      "caution": "Application and detailing affect performance.",
+      "image": "./images/waterproofing-membrane.svg"
     }
   ],
   "guides": [
