@@ -1,0 +1,9 @@
+{
+  "name": "build-material-hub",
+  "compatibility_date": "2026-10-26",
+  "assets": {
+    "directory": "./public"
+  },
+  "previews": {},
+  "preview_urls": true
+}
