@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480"><defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7f4ed"/><stop offset="1" stop-color="#e9e3d7"/></linearGradient>
+ <linearGradient id="brass" x1="0" y1="0" x2=".7" y2="1"><stop stop-color="#c38d38"/><stop offset=".22" stop-color="#fff0a7"/><stop offset=".52" stop-color="#d3a44d"/><stop offset=".8" stop-color="#986d2c"/><stop offset="1" stop-color="#dcb765"/></linearGradient>
+ <linearGradient id="steel" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#69889b"/><stop offset=".25" stop-color="#e6f1f5"/><stop offset=".52" stop-color="#a3b7c2"/><stop offset=".76" stop-color="#526d7c"/><stop offset="1" stop-color="#b6c9d1"/></linearGradient>
+ <linearGradient id="stone"><stop stop-color="#eae4d9"/><stop offset=".55" stop-color="#fffdf8"/><stop offset="1" stop-color="#bbb1a6"/></linearGradient>
+ <linearGradient id="concrete"><stop stop-color="#a9b9bd"/><stop offset=".55" stop-color="#e0e8e9"/><stop offset="1" stop-color="#82959c"/></linearGradient>
+ <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9bcadb"/><stop offset=".4" stop-color="#5e90ac"/><stop offset="1" stop-color="#315a77"/></linearGradient>
+ <linearGradient id="dark" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#53697b"/><stop offset=".37" stop-color="#253a4f"/><stop offset="1" stop-color="#142638"/></linearGradient>
+ <filter id="shadow" x="-25%" y="-25%" width="150%" height="160%"><feDropShadow dx="0" dy="13" stdDeviation="11" flood-color="#33485b" flood-opacity=".17"/></filter>
+ </defs><rect width="800" height="480" rx="20" fill="url(#bg)"/>
+ <circle cx="650" cy="105" r="174" fill="#fff" fill-opacity=".28"/><circle cx="100" cy="403" r="156" fill="#fff" fill-opacity=".22"/>
+ <path d="M80 418 H716" stroke="#bcad94" stroke-width="2" opacity=".35"/><ellipse cx="411" cy="405" rx="254" ry="29" fill="#233b4b" opacity=".10"/>
+ <g filter="url(#shadow)"><path d="M183 293 L364 154 L583 211 L400 355Z" fill="url(#steel)" stroke="#71818e" stroke-width="6"/><path d="M183 293 L183 354 L400 413 V355Z" fill="#aabdc8" stroke="#657582" stroke-width="4"/><path d="M400 355 V413 L583 270 V211Z" fill="#687d8c" stroke="#546b78" stroke-width="4"/><path d="M245 291 L373 190 L516 224 L388 321Z" fill="#405b6d" stroke="#d5e0e6" stroke-width="9"/><path d="M290 291 L375 225 L471 244 L387 310Z" fill="#bdced8"/><path d="M374 157 V225 M182 296 L290 293 M400 355 L390 307 M515 225 L582 210" fill="none" stroke="#f0f8fa" stroke-width="12" opacity=".65"/></g></svg>
