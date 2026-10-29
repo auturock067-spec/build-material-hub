@@ -79,7 +79,7 @@
     },
     {
       "name": "Waterproofing membrane",
-      "category": "Insulation",
+      "category": "Waterproofing",
       "description": "Sheet or liquid-applied barrier forming part of water-management systems.",
       "spec": "Substrate compatibility, thickness, test method, application conditions.",
       "tags": [
@@ -181,7 +181,7 @@
         },
         {
           "name": "矿物棉保温材料",
-          "category": "保温与防护",
+          "category": "保温材料",
           "description": "用于构造系统中隔热和吸声用途的纤维材料。",
           "spec": "密度、声明的热工性能、厚度、燃烧试验适用条件。",
           "tags": [
@@ -214,7 +214,7 @@
         },
         {
           "name": "防水膜材",
-          "category": "保温与防护",
+          "category": "防水材料",
           "description": "作为水分管理系统组成部分的片材或液态施工屏障。",
           "spec": "基层兼容性、厚度、试验方法、施工条件。",
           "tags": [
