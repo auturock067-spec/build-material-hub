@@ -50,7 +50,7 @@
   "Learn to compare cladding, insulation, tile and building materials, with a focus on technical documentation and supplier research.": "学习比较外墙材料、保温材料、瓷砖及其他建材，重点了解技术文件和供应商调研。",
   "Building materials intelligence": "建筑材料知识",
   "Choose materials with the full picture.": "全面了解，才能选对材料。",
-  "Explore material categories, performance questions and procurement checklists. A clearer path from project requirements to manufacturer documentation.": "了解材料分类、性能问题和采购核查清单，从项目要求逐步落实到制造商文件。",
+  "For international project buyers and importers: compare material specifications and identify documents to request before contacting manufacturers. Local project compliance still requires qualified review.": "面向国际工程项目采购者与进口商：在联系制造商前比较材料规格，梳理应索取的检测和技术文件。项目是否符合当地规范仍须由合格专业人员核查。",
   "Specs before samples.": "先看规格，再看样品。",
   "Fire behavior, local building codes, environmental conditions and installation systems can determine suitability.": "燃烧性能、当地建筑规范、环境条件及安装系统都可能决定材料是否适用。",
   "Performance documents": "性能文件",
