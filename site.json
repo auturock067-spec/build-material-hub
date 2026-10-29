@@ -103,7 +103,8 @@
         "Compare company, product name and sample identification.",
         "Verify test method edition, result scope and document issuer.",
         "Record any gaps against local building code requirements."
-      ]
+      ],
+      "image": "./images/mineral-wool-insulation.svg"
     },
     {
       "title": "Importing building materials",
@@ -112,7 +113,8 @@
         "Ask for weights, packaging units and damage protection.",
         "Clarify production tolerances and replacement policy.",
         "Define pre-shipment inspection and Incoterms in writing."
-      ]
+      ],
+      "image": "./images/porcelain-floor-tile.svg"
     },
     {
       "title": "Fire ratings need context",
@@ -121,7 +123,8 @@
         "Identify whether the rating applies to material or tested system.",
         "Compare the installation details with the test specimen.",
         "Engage a competent local professional for code-sensitive use."
-      ]
+      ],
+      "image": "./images/fiber-cement-board.svg"
     }
   ],
   "faq": [
@@ -275,5 +278,6 @@
       ],
       "disclosure": "所有建材规格及当地规范适用性判断，都需要结合具体项目进行专业核实。"
     }
-  }
+  },
+  "heroImage": "./images/porcelain-floor-tile.svg"
 }
